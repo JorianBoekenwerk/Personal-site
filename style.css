@@ -1,0 +1,22 @@
+body {
+    background-color: #F9EFDB;
+}
+
+.Intro {
+    background-color: #9DBC98;
+}
+
+.Interesses {
+    background-color: #638889;
+    margin: 0;
+}
+
+.container {
+    margin-bottom: 50px;
+}
+
+.contact {
+    padding-left: 10px;
+    padding-bottom: 10px;
+    background-color: #EBD9B4;
+}
